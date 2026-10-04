@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "channels": [
+    {
+      "project_key": "galvanize",
+      "name": "Galvanize",
+      "channel_id": "6a2e548cf214f66a41b5faec",
+      "public_url": "https://dzen.ru/id/6a2e548cf214f66a41b5faec",
+      "live_verification": false
+    },
+    {
+      "project_key": "ernest",
+      "name": "Английский бульдог | Москва",
+      "channel_id": "622e4a050e26331f271e5881",
+      "public_url": "https://dzen.ru/ernest_bulldog",
+      "live_verification": false
+    },
+    {
+      "project_key": "lifeplay",
+      "name": "LIFE PLAY | Производство и ритейл",
+      "channel_id": "6a7f29e5738ff054735000cf",
+      "public_url": "https://dzen.ru/lifeplay",
+      "live_verification": false
+    },
+    {
+      "project_key": "krutizmi",
+      "name": "KrutiZmi",
+      "channel_id": "6a8067d72bc81f5f3179fbcd",
+      "public_url": "https://dzen.ru/krutizmi",
+      "live_verification": false
+    },
+    {
+      "project_key": "cdekarbat",
+      "name": "Cdek Arbat",
+      "channel_id": "6a80704ba055ec3603b2963d",
+      "public_url": "https://dzen.ru/cdekarbat",
+      "live_verification": false
+    }
+  ],
+  "account_key": "shared-dzen-account"
+}
